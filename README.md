@@ -13,6 +13,6 @@ An Arduino robot that blows birthday cake candles out in order to help prevent t
 - Jumper wires male to female x5
 - Jumper wires male to male x3
 ## Wiring diagram
-
+![](Images/candleblower_bb.png)
 ## License
 This project is licensed under the MIT License - open the [LICENSE.md](https://github.com/LFuciarelli/candle-blower/blob/main/LICENSE) file for more details
