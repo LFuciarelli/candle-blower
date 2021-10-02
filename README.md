@@ -1,6 +1,9 @@
 # candle-blower
 An Arduino robot that blows birthday cake candles out in order to help prevent the spread of COVID-19
-![](Images/candleblower_gif.gif)
+
+<p align="center">
+  <img width="460" height="300" src="Images/candleblower_gif.gif">
+</p>
 ## Table of contents
 * [Components](#components)
 * [Wiring diagram](#wiring-diagram)
