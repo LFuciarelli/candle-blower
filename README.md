@@ -2,7 +2,7 @@
 An Arduino robot that blows birthday cake candles out in order to help prevent the spread of COVID-19
 ## Table of contents
 * [Components](#components)
-* [Wiring diagram](wiring-diagram)
+* [Wiring diagram](#wiring-diagram)
 * [License](#license)
 ## Components
 - Arduino Uno x1
